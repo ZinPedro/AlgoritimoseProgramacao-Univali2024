@@ -1,0 +1,33 @@
+
+Comando Atribuição (processamento){
+variavel = dado ou expreção;
+}
+
+Comando de entrada de dados (cin){
+usuário escreve...
+sintaxe:
+cin>>variável;
+cin>>variável1>>variável2;
+cin>>idade
+cin>>nome>>idade>>endereço;
+}
+
+Comando de saída de dados{
+usuário recebe...
+sintaxe:
+cout<<"msg"<<endl;
+cout<<variável<<endl;
+cout<<"msg"<<variável<<endl;
+}
+
+Sequências de escapes{
+\a Alert (bell) – sinal sonoro
+\b Backspace – volta uma posição
+\n Newline – muda para a próxima linha
+\r Carriage return – retorna para o início da mesma linha
+\t Horizontal tab – avança 8 posições
+(Estas sequências devem aparecer entre aspas “ ”.)
+cout<<nome<<"/n"<<"Idade:"<<variavel<<endl;
+}
+
+
